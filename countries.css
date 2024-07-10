@@ -1,0 +1,29 @@
+.heading{
+    color:rgb(102, 102, 178);
+    font-size: 40px;
+    font-weight: bold;
+}
+.input-search{
+    height: 40px;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.search-results{
+    margin-top: 18px;
+}
+.country-container{
+    background-color: lightblue;
+    border-radius: 8px;
+}
+.country-flag{
+    margin-top: auto;
+    margin-bottom: auto;
+    height:70px;
+    width: 60px;
+}
+.country-name{
+    color:black;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: sans-serif;
+}
